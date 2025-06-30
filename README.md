@@ -60,10 +60,18 @@ bun install
 
 ```yaml
 # Application Configuration
-APP_NAME=ExampleApp # Change this to your application's name, e.g., "Node Express Drizzle"
-APP_URL=http://example.com # Change this to your application's URL, e.g., http://localhost:8000 for local development
-FRONTEND_APP_URL=http://app.example.com # https://example.com,https://admin.example.com for multiple URLs
-PORT=3000 # Change this to the port your application will run on
+
+# Change this to your application's name, e.g., "Node Express Drizzle"
+APP_NAME=ExampleApp 
+
+# Change this to your application's URL, e.g., http://localhost:8000 for local development
+APP_URL=http://example.com 
+
+# https://example.com,https://admin.example.com for multiple URLs
+FRONTEND_APP_URL=http://app.example.com 
+
+# Change this to the port your application will run on
+PORT=3000 
 
 # Environment Configuration
 NODE_ENV=development # development or production
