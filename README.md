@@ -107,4 +107,4 @@ bun run dev
 
 ## License
 
-Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
+Distributed under the MIT License. See [MIT License](https://github.com/gopinaathk/node-express-drizzle-api/blob/main/LICENSE) for more information.
